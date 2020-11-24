@@ -9,8 +9,8 @@ Non-commercial open source project
 >
 >Project started 2020-11-24
 
-if you want to help, see current tasks here
+if you want to help, see current tasks [here](https://github.com/ViktorovIO/animalshelp.ru/projects/1)
 
-if you need help with the project (and not only) - write here
+if you need help with the project (and not only) - write [here](viktorovio@mail.ru)
 
 > ViktorovIO.
