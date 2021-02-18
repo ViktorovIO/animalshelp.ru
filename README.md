@@ -4,8 +4,8 @@ Non-commercial open source project
 [GitHub Link](http://github.com/ViktorovIO/animalshelp.ru)
 
 >About:
->- Symfony 5.1
->- PHP 7.2.5
+>- Symfony 5.2
+>- PHP 7.4.15
 >
 >Project started 2020-11-24
 
